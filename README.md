@@ -75,6 +75,9 @@ Reimplementation of 40+ functions from `libc` from scratch — memory, strings, 
 
 **Python Modules** — Progressive series covering Python fundamentals through OOP, file handling, and standard library usage. Each module is a standalone graded project.
 
+<br/>
+</details>
+
 ---
 
 ## 🗂️ Other Projects
