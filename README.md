@@ -66,7 +66,7 @@ Reimplementation of 40+ functions from `libc` from scratch — memory, strings, 
 </details>
 
 <details>
-<summary><b>✅ Milestone 2 &nbsp;—&nbsp; Born2beroot · A-Maze-ing · Python Modules</b></summary>
+<summary><b>✅ Milestone 2 &nbsp;—&nbsp; Born2beroot · A-Maze-ing · Python Modules · Exam Rank 02</b></summary>
 <br/>
 
 **Born2beroot** — Debian VM configured from scratch: encrypted LVM partitions, SSH hardening, UFW, sudo policy, password enforcement, cron monitoring script. Bonus: WordPress stack (Lighttpd + MariaDB + PHP-FPM).
@@ -74,6 +74,56 @@ Reimplementation of 40+ functions from `libc` from scratch — memory, strings, 
 **A-Maze-ing** — Maze generation and pathfinding project. Algorithmic challenge focused on graph traversal and display logic.
 
 **Python Modules** — Progressive series covering Python fundamentals through OOP, file handling, and standard library usage. Each module is a standalone graded project.
+
+**Exam Rank 02** — Timed solo C exam, no internet. Tests core skills under pressure: string manipulation, memory management, and algorithm implementation with full norminette compliance.
+
+<br/>
+</details>
+
+---
+
+## 🐍 Python — Curso em Vídeo (Gustavo Guanabara)
+
+<details>
+<summary><b>✅ Mundo 1 &nbsp;—&nbsp; Fundamentos</b></summary>
+<br/>
+
+Variables, data types, user input, arithmetic and logical operators, conditional structures (`if/elif/else`), and basic string formatting. First contact with Python syntax and logic flow.
+
+<!-- 📜 [Certificate of Completion](LINK_HERE) -->
+
+<br/>
+</details>
+
+<details>
+<summary><b>✅ Mundo 2 &nbsp;—&nbsp; Estruturas de Controle</b></summary>
+<br/>
+
+Repetition structures (`while`, `for`), loop control (`break`, `continue`), iterators, and flow control applied to real problems. Builds on Mundo 1 to handle dynamic and repetitive logic.
+
+<!-- 📜 [Certificate of Completion](LINK_HERE) -->
+
+<br/>
+</details>
+
+<details>
+<summary><b>✅ Mundo 3 &nbsp;—&nbsp; Estruturas Compostas</b></summary>
+<br/>
+
+Tuples, lists, dictionaries, and sets. Covers indexing, slicing, iteration over collections, and built-in functions for data manipulation. Foundation for handling structured data in Python.
+
+<!-- 📜 [Certificate of Completion](LINK_HERE) -->
+
+<br/>
+</details>
+
+<details>
+<summary><b>✅ Mundo 4 &nbsp;—&nbsp; Programação Orientada a Objetos (POO)</b></summary>
+<br/>
+
+Classes, objects, attributes, methods, encapsulation, inheritance, and polymorphism. Covers the full OOP paradigm in Python — the conceptual shift from procedural to object-oriented thinking.
+
+<!-- 📜 [Certificate of Completion](LINK_HERE) -->
 
 <br/>
 </details>
