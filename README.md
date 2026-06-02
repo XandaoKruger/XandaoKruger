@@ -1,9 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Xand%C3%A3o+%F0%9F%91%8B;42+Student+%7C+Developer+in+progress;Building+from+scratch+%E2%80%94+no+shortcuts.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Xand%C3%A3o+%F0%9F%91%8B;42+School+%7C+Backend+Dev;Building+from+scratch+%E2%80%94+no+shortcuts.)](https://git.io/typing-svg)
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-krüger-40ba72288/)
 ![42](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,18 +25,46 @@
 
 Desenvolvedor em formação pela **42** — metodologia peer-to-peer, sem professores, sem aulas. Cada projeto é entregue funcional ou não passa.
 
-Foco em C, sistemas Unix e programação de baixo nível, com experiência paralela em ferramentas reais para comunidades.
+Base em C e sistemas Unix, com foco atual em Python e back-end. Projeto pessoal em produção com **+1000 utilizadores ativos**.
+
+Interesse em desenvolvimento de jogos, sistemas e infraestrutura.
 
 </td>
 <td width="50%" valign="top">
 
 Developer in training at **42** — peer-to-peer methodology, no teachers, no lectures. Projects either work or they don't.
 
-Focus on C, Unix systems, and low-level programming, with parallel experience building real tools for online communities.
+Foundations in C and Unix systems, current focus on Python and back-end. Personal project running in production with **1,000+ active users**.
+
+Interested in game development, systems programming, and back-end infrastructure.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 Featured Project — IF CORE
+
+Discord bot and server infrastructure for a GTA gaming community — **1,000+ active members, running in production.**
+
+**Stack:** Node.js · discord.js v14 · PostgreSQL (Neon.tech) · Discloud · GitHub
+
+<details>
+<summary><b>What's running in production</b></summary>
+<br/>
+
+- Automated **Friday playlist scheduling** with database persistence
+- **Voice channel** management and automation
+- **Staff command system** (`/manual`) with permission-tiered access
+- Moderation tooling, role management, and full server infrastructure
+
+Also responsible for the full server architecture — structure, roles, permissions, and onboarding flow for 1,000+ members.
+
+<br/>
+</details>
+
+→ [View on GitHub](https://github.com/XandaoKruger) <!-- Update to direct repo link -->
 
 ---
 
@@ -85,61 +114,17 @@ Reimplementation of 40+ functions from `libc` from scratch — memory, strings, 
 ## 🐍 Python — Curso em Vídeo (Gustavo Guanabara)
 
 <details>
-<summary><b>✅ Mundo 1 &nbsp;—&nbsp; Fundamentos</b></summary>
+<summary><b>Mundos 1 → 4 &nbsp;·&nbsp; Fundamentals → OOP</b></summary>
 <br/>
 
-Variables, data types, user input, arithmetic and logical operators, conditional structures (`if/elif/else`), and basic string formatting. First contact with Python syntax and logic flow.
-
-<!-- 📜 [Certificate of Completion](LINK_HERE) -->
-
-<br/>
-</details>
-
-<details>
-<summary><b>✅ Mundo 2 &nbsp;—&nbsp; Estruturas de Controle</b></summary>
-<br/>
-
-Repetition structures (`while`, `for`), loop control (`break`, `continue`), iterators, and flow control applied to real problems. Builds on Mundo 1 to handle dynamic and repetitive logic.
-
-<!-- 📜 [Certificate of Completion](LINK_HERE) -->
+| Module | Topics |
+|---|---|
+| **Mundo 1** | Variables, types, I/O, operators, conditionals, string formatting |
+| **Mundo 2** | Loops (`while`, `for`), `break`/`continue`, iterators, flow control |
+| **Mundo 3** | Tuples, lists, dicts, sets — structured data manipulation |
+| **Mundo 4** | Classes, OOP — encapsulation, inheritance, polymorphism |
 
 <br/>
-</details>
-
-<details>
-<summary><b>✅ Mundo 3 &nbsp;—&nbsp; Estruturas Compostas</b></summary>
-<br/>
-
-Tuples, lists, dictionaries, and sets. Covers indexing, slicing, iteration over collections, and built-in functions for data manipulation. Foundation for handling structured data in Python.
-
-<!-- 📜 [Certificate of Completion](LINK_HERE) -->
-
-<br/>
-</details>
-
-<details>
-<summary><b>✅ Mundo 4 &nbsp;—&nbsp; Programação Orientada a Objetos (POO)</b></summary>
-<br/>
-
-Classes, objects, attributes, methods, encapsulation, inheritance, and polymorphism. Covers the full OOP paradigm in Python — the conceptual shift from procedural to object-oriented thinking.
-
-<!-- 📜 [Certificate of Completion](LINK_HERE) -->
-
-<br/>
-</details>
-
----
-
-## 🗂️ Other Projects
-
-<details>
-<summary><b>IF CORE Bot &nbsp;·&nbsp; Discord community tools</b></summary>
-<br/>
-
-Discord bot and server infrastructure for a gaming community with **1000+ members**. Built with Node.js, discord.js v14, and PostgreSQL. Handles automated scheduling, voice channel management, and moderation tooling.
-
-Also manage the server itself — structure, roles, permissions, and onboarding.
-
 </details>
 
 ---
@@ -148,7 +133,20 @@ Also manage the server itself — structure, roles, permissions, and onboarding.
 
 <div align="center">
 
+<table border="0">
+<tr>
+<td>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=XandaoKruger&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</td>
+<td>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XandaoKruger&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/XandaoKruger)
+
+</td>
+</tr>
+</table>
 
 </div>
 
