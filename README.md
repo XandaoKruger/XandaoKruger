@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-krüger-40ba72288/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE-WITH-YOUR-URL)
 ![42](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -133,20 +133,9 @@ Reimplementation of 40+ functions from `libc` from scratch — memory, strings, 
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=XandaoKruger&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</td>
-<td>
-
+&nbsp;&nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XandaoKruger&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/XandaoKruger)
-
-</td>
-</tr>
-</table>
 
 </div>
 
