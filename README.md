@@ -134,8 +134,6 @@ Reimplementation of 40+ functions from `libc` from scratch — memory, strings, 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=XandaoKruger&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XandaoKruger&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/XandaoKruger)
 
 </div>
 
